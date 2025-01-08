@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css"> 
+  </head>
+  <body>
+    <h1> How does climate change affect the animals in the Arctic?</h1>
+
+    <h3>Climate change is harming animals by changing their habitats and affecting their food sources.</h3>
+
+    <div class="gallery">
+      <div class = “animals-card”>
+        <img src="arcticfox.jpeg" alt="fox" />
+        <div class= “content”>
+
+
+          <h3> Arctic Fox</h3>
+          <p> As temperatures rise, their habitat starts to change. The weather can lead to a decrease in their prey, like lemmings, and it also allows red foxes to move into their territory, which can cause competition. Plus, the melting ice and snow can affect their ability to camouflage and hunt effectively. </p> 
+        </div>
+      </div>
+
+   <div class="gallery">
+        <div class = “animals-card”>
+          <img src="polarbear.jpeg" alt="bear" />
+          <div class= “content”>
+            <h3> Polar Bear</h3>   
+            <p> The melting sea ice means they have less space to hunt for seals, which are their main food source. Without enough ice, they have to swim longer distances, which can be exhausting and dangerous. The changing conditions can affect their ability to find mates and raise their cubs. </p>
+          </div>
+        </div>
+
+      <div class="gallery">
+        <div class = “animals-card”>
+          <img src="snowyowl.jpg" alt="Image description" />
+          <div class= “content”>
+            <h3> Snowy Owl</h3> 
+            <p> As the climate warms, there's less snow and ice, which affects their hunting grounds and their availability of their prey, like lemmings. It can also disrupt their breeding patterns and habitats.</p>
+
+
+  </body>
+</html>
