@@ -1,31 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css">  
   </head>
   <body>
-    <!--Navigation Bar -->
-    <a href="index.html"> Home</a>
-    <a href="africa.html">How Does Climate Change Affect the Animals in Africa</a>
-    <a href="artic.html"> How Does Climate Change affect Animals in the Arctic</a>
-   
-    <!-- Title -->
-    <h1> How Climate Change affects Animals and their Habitat</h1>
-   
- 
-   
-    <h2> What is Climate Change? </h2>
-    <div class="gallery">
-    <div class="info">
-    <p> Climate change is the long-term alteration of global temperatures and weather patterns, mainly driven by human activities. Since the Industrial Revolution, the burning of fossil fuels such as coal, oil, and natural gas has released large amounts of greenhouse gases, such as carbon dioxide and methane, into the atmosphere. These gases trap heat from the sun, causing the Earth’s average temperature to rise, this is known as global warming. Deforestation and industrial processes further contribute by reducing the planet’s ability to absorb CO₂. Natural factors like volcanic eruptions and solar activity can also influence the climate, but the current rate of change is unprecedented and overwhelmingly linked to human activities. This rapid warming disrupts ecosystems, weather patterns, and sea levels, posing significant challenges to life on Earth.</p>
-   </div>
-      <div class="image">
-        <img src="climate-change.jpeg" alt="climate-change" />
-      </div>
-    </div>
-   
-     
-     
-     
+    <h1>How Climate Change affects Animals and Their Habitats</h1>
+    <img src="climate.jpg" alt="Image description" />
   </body>
 </html>
