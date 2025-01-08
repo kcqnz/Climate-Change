@@ -10,44 +10,44 @@
 <!-- animal-card - elephant-->
     <div class="gallery">
      
-      <div class = “image-card”>
+      <div class=“image-card”>
         
-        <div class= "image">
+        <div class="image">
         
           <img src="elephant.jpg" alt="elephant" />
-        
+        </div>
           <div class= “info”>
           <h3> Elephant </h3>
           <p> Elephants in Africa experience climate change through increased droughts. These changes force them to travel longer distances, often leading to conflicts with humans and stressing their populations. </p>
         </div>
       </div>
 <!-- animal-card - rhino-->
-      <div class= “image-card”>
+      <div class=“image-card”>
         
-        <div class= "image">
+        <div class="image">
         
-          <img src="rhino.jpg" alt="Image description" />
-      
+          <img src="rhino.jpg" alt="rhino" />
+        </div>
           <div class="info">
         <h3> African Rhinos</h3>
         <p> Climate change is threatening Africans Rhinos by altering their habitats, making food and water scarcer. The changing environment also increases the risk of diseases.</p>
       </div>
     </div>
 <!-- animal-card - giraffes-->
-    <div class= “image-card”>
+    <div class=“image-card”>
  
       <div class="image">
      
         <img src="giraffes.jpg" alt="giraffes"/>
-         
-        <div class= “info”>
+      </div> 
+        <div class=“info”>
    <h3> Giraffes</h3>
   <p> Climate change is affecting giraffes in Africa by altering the availability of their food source, as the droughts and temperature changes impact the growth of trees and plants they rely on. Additionally, shifting weather patterns for giraffes to travel longer distances,increasing their vulnerability to predators and human encroachment.</p>
   </div>
 </div>
-    </div>
-<hr>
+        </div>
 
+        <a href="kennise-html"> Home</a>
 
   </body>
 </html>
